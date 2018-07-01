@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Richard Huber"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /images/bio.jpg
   bio              : "Material / Data Portfolio"
   location         : "Munich, DE"
   email            :
